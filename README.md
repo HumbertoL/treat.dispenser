@@ -12,11 +12,12 @@ Create a new Blynk project in the app. Configure a Push button to use V1. Option
 Upload the sketch to an internet connected Arduino or ESP8266. 
 
 Video Preview
+
 [![Video preview](https://img.youtube.com/vi/zzCy-9AG1cU/0.jpg)](https://www.youtube.com/watch?v=zzCy-9AG1cU)
 
 ## Downloads
 
-**Arduino https://www.arduino.cc/en/Main/Software
+**[Arduino IDE](https://www.arduino.cc/en/Main/Software)**
 
 **Blynk [Arduino Library](https://github.com/blynkkk/blynk-library/releases/latest)**
 
