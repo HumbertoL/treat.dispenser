@@ -1,4 +1,4 @@
-# Dog Treat Dispenser
+# Smart Dog Treat Dispenser
 This project uses Blynk and Arduino to dispense dog treats over the internet.
 
 # Parts
@@ -9,7 +9,7 @@ This project uses Blynk and Arduino to dispense dog treats over the internet.
 # Usage
 Create a new Blynk project in the app. Configure a Push button to use V1. Optionally, add a slider that uses V3 with values 0 to 180.
 
-Upload the sketch to an internet connected Arduino or ESP8266. 
+Upload the sketch to an Arduino or ESP8266. 
 
 Video Preview
 
